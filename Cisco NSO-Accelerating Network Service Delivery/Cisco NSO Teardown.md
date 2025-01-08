@@ -28,9 +28,10 @@ Cisco NSO (Network Service Orchestrator) is a model-driven service orchestration
 
 ## Monetisation Strategy
 
-Cisco NSO utilises a premium pricing model, focusing on:
-Subscription-Based Licensing: Customers pay based on usage and scale, ensuring recurring revenue.
-Professional Services: Cisco offers implementation support, customising NSO for specific environments.
+The Monetization Strategy of Cisco NSO (Network Services Orchestrator) leverages its positioning as a premium network automation and orchestration tool. Cisco focuses on several key areas to generate revenue from NSO:
+- Subscription-Based Licensing
+Ensuring a recurring revenue stream. Customers pay based on their usage and scale. E.g. $100k/year/Instance and separate cost if No. of managed devices crosses the agreed threshold.
+- Professional Services: Cisco provides Implementation Support by customizing NSO for specific network environments. E.g. Sprint based development cost for NSO service package use cases, cost depend on how complex the use case is and how many sprint it will take.
 
 ## Weaknesses
 

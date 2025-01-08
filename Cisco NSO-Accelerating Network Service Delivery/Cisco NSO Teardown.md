@@ -34,9 +34,9 @@ The Monetization Strategy of Cisco NSO (Network Services Orchestrator) leverages
 
 ## Weaknesses
 
-**Complexity:** Beginners might find it challenging to learn.
-**Cost:** Licensing is expensive compared to open-source alternatives.
-**Performance Bottlenecks:** Large-scale deployments might experience delays if not optimised.
+- **Complexity:** Beginners might find it challenging to learn.
+- **Cost:** Licensing is expensive compared to open-source alternatives.
+- **Performance Bottlenecks:** Large-scale deployments might experience delays if not optimised.
 
 ## Competitive Product Analysis
 
